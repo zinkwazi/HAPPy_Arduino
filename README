@@ -1,3 +1,6 @@
+High Altitude Payload Project
+
+High altitude weather balloon data collection.
 Arduino code to collect data from a bunch of sensors and write to an SD card in CSV format.
 The plan is to add as many sensors as we can :)
 
