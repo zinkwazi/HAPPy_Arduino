@@ -1,7 +1,8 @@
 // High Altitude Payload Project Arduino sensor array.
 // http://happycapsule.com
 // 
-// Version 1.0 by Greg Lawler - successful flight Aug 14, 2011
+// Version 1.0 by Greg Lawler - first successful flight Aug 14, 2011
+// Sensor details and schematics can also be found on our web site listed above.
 
 
 #include <SD.h>
