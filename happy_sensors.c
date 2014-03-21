@@ -1,8 +1,6 @@
 // High Altitude Payload Project Arduino sensor array.
 // http://happycapsule.com
 // 
-// Sponsored by Santa Barbara Hackerspace - http://sbhackerspace.com/
-//
 // Version 1.0 by Greg Lawler - successful flight Aug 14, 2011
 
 
